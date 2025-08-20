@@ -1,1 +1,15 @@
-﻿  SkullBreaker.vcxproj -> E:\SkullBreaker\SkullBreaker\x64\Debug\SkullBreaker.exe
+﻿  Main.cpp
+E:\SkullBreaker\SkullBreaker\SkullBreaker\Jugador.hpp(9,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Main.cpp")
+  
+E:\SkullBreaker\SkullBreaker\SkullBreaker\Jugador.hpp(10,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Main.cpp")
+  
+E:\SkullBreaker\SkullBreaker\SkullBreaker\Jugador.hpp(11,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Main.cpp")
+  
+E:\SkullBreaker\SkullBreaker\SkullBreaker\Jugador.hpp(12,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Main.cpp")
+  
+  LINK : no se encontró E:\SkullBreaker\SkullBreaker\x64\Debug\SkullBreaker.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  SkullBreaker.vcxproj -> E:\SkullBreaker\SkullBreaker\x64\Debug\SkullBreaker.exe

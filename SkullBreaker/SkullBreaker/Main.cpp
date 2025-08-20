@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Jugador.hpp"
 #include <SDL3/SDL.h>
 
 using namespace std;
@@ -10,6 +11,7 @@ int main()
 	SDL_Window* ventana = SDL_CreateWindow("SkullBreaker", 640, 400, NULL);
 	bool quitar = false;
 	SDL_Renderer* render = SDL_CreateRenderer(ventana, "");
+	Jugador p1;
 	SDL_Event evento;
 	if (ventana == NULL)
 	{
@@ -19,6 +21,7 @@ int main()
 
 	SDL_SetRenderDrawColor(render, 50, 50, 50, 0);
 	SDL_RenderClear(render);
+	p1.DibujarJugador(render, 100, 100, 5, 5);
 	SDL_RenderPresent(render);
 
 	while (!quitar)

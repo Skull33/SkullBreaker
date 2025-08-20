@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FCD4CCCE-06E3-445D-B982-35B752AA1C1A}|SkullBreaker\\SkullBreaker.vcxproj|E:\\SkullBreaker\\SkullBreaker\\SkullBreaker\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FCD4CCCE-06E3-445D-B982-35B752AA1C1A}|SkullBreaker\\SkullBreaker.vcxproj|solutionrelative:SkullBreaker\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD4CCCE-06E3-445D-B982-35B752AA1C1A}|SkullBreaker\\SkullBreaker.vcxproj|E:\\SkullBreaker\\SkullBreaker\\SkullBreaker\\Jugador.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCD4CCCE-06E3-445D-B982-35B752AA1C1A}|SkullBreaker\\SkullBreaker.vcxproj|solutionrelative:SkullBreaker\\Jugador.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.hpp",
+              "DocumentMoniker": "E:\\SkullBreaker\\SkullBreaker\\SkullBreaker\\Jugador.hpp",
+              "RelativeDocumentMoniker": "SkullBreaker\\Jugador.hpp",
+              "ToolTip": "E:\\SkullBreaker\\SkullBreaker\\SkullBreaker\\Jugador.hpp",
+              "RelativeToolTip": "SkullBreaker\\Jugador.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T03:59:45.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "SkullBreaker\\Main.cpp",
               "ToolTip": "E:\\SkullBreaker\\SkullBreaker\\SkullBreaker\\Main.cpp",
               "RelativeToolTip": "SkullBreaker\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-20T00:42:05.291Z",
               "EditorCaption": ""
