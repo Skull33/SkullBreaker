@@ -6,8 +6,6 @@
 using namespace std;
 
 int main() {
-    cout<<"Bienvenido a SkullBreaker"<<endl;
-    cout<<"------------------------------------------"<<endl;
     string command[] = {"salir","editar","jugar"};
     bool existe_editor = 0;
     bool existe_kernel = 0;
@@ -15,9 +13,17 @@ int main() {
     SkullBreakerKernel * kernel = nullptr;
     while (true) {
         string comando;
+        cout<<"Bienvenido a SkullBreaker"<<endl;
+        cout<<"------------------------------------------"<<endl;
         cout<<"ingrese un comando:"<<endl;
         cin>>comando;
         if (comando == "salir") {
+            if (ss != nullptr) {
+                delete ss;
+            }
+            if (kernel != nullptr) {
+                delete kernel;
+            }
             return 0;
         }
         else if (comando == "editar") {
